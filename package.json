@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-cooke-mda",
-  "description": "一个食谱搜索的插件",
-  "version": "0.0.1",
+  "description": "当群u又想吃东西的时候，*做*出一份富有*爱*心的料理吧！（TheMealDB版）",
+  "version": "0.0.1-14",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -9,12 +9,12 @@
     "dist"
   ],
   "license": "MIT",
-  "scripts": {},
   "keywords": [
     "chatbot",
     "koishi",
     "plugin"
   ],
+  "author": "qycblzj <qianyue_64_32@outlook.com>",
   "peerDependencies": {
     "koishi": "^4.16.4"
   }
